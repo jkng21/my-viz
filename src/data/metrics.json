@@ -1,0 +1,2919 @@
+{
+  "meta": {
+    "title": "Seasonal Pet Store Sales Metrics",
+    "description": "Fake monthly pet store sales and product data from Jan 2024 through Dec 2025.",
+    "currency": "USD",
+    "dateRange": {
+      "start": "2024-01",
+      "end": "2025-12"
+    }
+  },
+  "categories": [
+    {
+      "name": "Dog Food",
+      "color": "#7FB3D5"
+    },
+    {
+      "name": "Cat Food",
+      "color": "#A5D6A7"
+    },
+    {
+      "name": "Treats",
+      "color": "#F7C26B"
+    },
+    {
+      "name": "Toys & Enrichment",
+      "color": "#D39BFF"
+    },
+    {
+      "name": "Grooming & Supplies",
+      "color": "#F29B9B"
+    },
+    {
+      "name": "Health & Wellness",
+      "color": "#77C7C8"
+    }
+  ],
+  "months": [
+    {
+      "month": "2024-01",
+      "sales": 14250,
+      "transactions": 430,
+      "footTraffic": 2100,
+      "conversionRate": 0.205,
+      "unitsSold": 960,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 4418,
+          "unitsSold": 292,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 2565,
+          "unitsSold": 169,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 2422,
+          "unitsSold": 160,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 1995,
+          "unitsSold": 132,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 1710,
+          "unitsSold": 113,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1140,
+          "unitsSold": 75,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 2297,
+          "unitsSold": 128
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 2121,
+          "unitsSold": 106
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1334,
+          "unitsSold": 74
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1231,
+          "unitsSold": 62
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 1405,
+          "unitsSold": 88
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1017,
+          "unitsSold": 54
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1157,
+          "unitsSold": 72
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 838,
+          "unitsSold": 44
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 889,
+          "unitsSold": 49
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 821,
+          "unitsSold": 41
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 661,
+          "unitsSold": 41
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 479,
+          "unitsSold": 25
+        }
+      ]
+    },
+    {
+      "month": "2024-02",
+      "sales": 15320,
+      "transactions": 465,
+      "footTraffic": 2250,
+      "conversionRate": 0.207,
+      "unitsSold": 1030,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 4749,
+          "unitsSold": 313,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 2758,
+          "unitsSold": 182,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 2604,
+          "unitsSold": 172,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2145,
+          "unitsSold": 141,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 1838,
+          "unitsSold": 121,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1226,
+          "unitsSold": 81,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 2469,
+          "unitsSold": 137
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 2280,
+          "unitsSold": 114
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1434,
+          "unitsSold": 80
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1324,
+          "unitsSold": 66
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 1510,
+          "unitsSold": 94
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1094,
+          "unitsSold": 58
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1244,
+          "unitsSold": 78
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 901,
+          "unitsSold": 47
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 956,
+          "unitsSold": 53
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 882,
+          "unitsSold": 44
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 711,
+          "unitsSold": 44
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 515,
+          "unitsSold": 27
+        }
+      ]
+    },
+    {
+      "month": "2024-03",
+      "sales": 17680,
+      "transactions": 520,
+      "footTraffic": 2480,
+      "conversionRate": 0.21,
+      "unitsSold": 1180,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 5481,
+          "unitsSold": 358,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 3182,
+          "unitsSold": 208,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 3006,
+          "unitsSold": 197,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2475,
+          "unitsSold": 162,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2122,
+          "unitsSold": 139,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1414,
+          "unitsSold": 93,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 2850,
+          "unitsSold": 158
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 2631,
+          "unitsSold": 132
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1655,
+          "unitsSold": 92
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1527,
+          "unitsSold": 76
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 1743,
+          "unitsSold": 109
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1263,
+          "unitsSold": 66
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1436,
+          "unitsSold": 90
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1039,
+          "unitsSold": 55
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1103,
+          "unitsSold": 61
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1019,
+          "unitsSold": 51
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 820,
+          "unitsSold": 51
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 594,
+          "unitsSold": 31
+        }
+      ]
+    },
+    {
+      "month": "2024-04",
+      "sales": 19420,
+      "transactions": 575,
+      "footTraffic": 2680,
+      "conversionRate": 0.214,
+      "unitsSold": 1275,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 6020,
+          "unitsSold": 387,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 3496,
+          "unitsSold": 225,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 3301,
+          "unitsSold": 212,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2719,
+          "unitsSold": 175,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2330,
+          "unitsSold": 150,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1554,
+          "unitsSold": 100,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 3130,
+          "unitsSold": 174
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 2890,
+          "unitsSold": 144
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1818,
+          "unitsSold": 101
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1678,
+          "unitsSold": 84
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 1915,
+          "unitsSold": 120
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1386,
+          "unitsSold": 73
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1577,
+          "unitsSold": 99
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1142,
+          "unitsSold": 60
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1212,
+          "unitsSold": 67
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1118,
+          "unitsSold": 56
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 901,
+          "unitsSold": 56
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 653,
+          "unitsSold": 34
+        }
+      ]
+    },
+    {
+      "month": "2024-05",
+      "sales": 21100,
+      "transactions": 620,
+      "footTraffic": 2840,
+      "conversionRate": 0.218,
+      "unitsSold": 1385,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 6541,
+          "unitsSold": 421,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 3798,
+          "unitsSold": 244,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 3587,
+          "unitsSold": 231,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2954,
+          "unitsSold": 190,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2532,
+          "unitsSold": 163,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1688,
+          "unitsSold": 109,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 3401,
+          "unitsSold": 189
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3140,
+          "unitsSold": 157
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1975,
+          "unitsSold": 110
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1823,
+          "unitsSold": 91
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2080,
+          "unitsSold": 130
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1507,
+          "unitsSold": 79
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1713,
+          "unitsSold": 107
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1241,
+          "unitsSold": 65
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1317,
+          "unitsSold": 73
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1215,
+          "unitsSold": 61
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 979,
+          "unitsSold": 61
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 709,
+          "unitsSold": 37
+        }
+      ]
+    },
+    {
+      "month": "2024-06",
+      "sales": 23480,
+      "transactions": 660,
+      "footTraffic": 3010,
+      "conversionRate": 0.219,
+      "unitsSold": 1510,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 7279,
+          "unitsSold": 459,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4226,
+          "unitsSold": 266,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 3992,
+          "unitsSold": 252,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3287,
+          "unitsSold": 207,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2818,
+          "unitsSold": 178,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1878,
+          "unitsSold": 118,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 3785,
+          "unitsSold": 210
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3494,
+          "unitsSold": 175
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2198,
+          "unitsSold": 122
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2028,
+          "unitsSold": 101
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2315,
+          "unitsSold": 145
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1677,
+          "unitsSold": 88
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1906,
+          "unitsSold": 119
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1381,
+          "unitsSold": 73
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1465,
+          "unitsSold": 81
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1353,
+          "unitsSold": 68
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1089,
+          "unitsSold": 68
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 789,
+          "unitsSold": 42
+        }
+      ]
+    },
+    {
+      "month": "2024-07",
+      "sales": 25620,
+      "transactions": 700,
+      "footTraffic": 3180,
+      "conversionRate": 0.22,
+      "unitsSold": 1625,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 7942,
+          "unitsSold": 494,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4612,
+          "unitsSold": 287,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 4355,
+          "unitsSold": 271,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3587,
+          "unitsSold": 223,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3074,
+          "unitsSold": 191,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2050,
+          "unitsSold": 127,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4130,
+          "unitsSold": 229
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3812,
+          "unitsSold": 191
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2398,
+          "unitsSold": 133
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2214,
+          "unitsSold": 111
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2526,
+          "unitsSold": 158
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1829,
+          "unitsSold": 96
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2080,
+          "unitsSold": 130
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1507,
+          "unitsSold": 79
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1598,
+          "unitsSold": 89
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1476,
+          "unitsSold": 74
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1189,
+          "unitsSold": 74
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 861,
+          "unitsSold": 45
+        }
+      ]
+    },
+    {
+      "month": "2024-08",
+      "sales": 26890,
+      "transactions": 725,
+      "footTraffic": 3300,
+      "conversionRate": 0.22,
+      "unitsSold": 1710,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 8336,
+          "unitsSold": 519,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4840,
+          "unitsSold": 302,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 4571,
+          "unitsSold": 285,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3765,
+          "unitsSold": 235,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3227,
+          "unitsSold": 201,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2151,
+          "unitsSold": 134,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4335,
+          "unitsSold": 241
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 4001,
+          "unitsSold": 200
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2517,
+          "unitsSold": 140
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2323,
+          "unitsSold": 116
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2651,
+          "unitsSold": 166
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1920,
+          "unitsSold": 101
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2184,
+          "unitsSold": 136
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1581,
+          "unitsSold": 83
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1678,
+          "unitsSold": 93
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1549,
+          "unitsSold": 77
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1248,
+          "unitsSold": 78
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 903,
+          "unitsSold": 48
+        }
+      ]
+    },
+    {
+      "month": "2024-09",
+      "sales": 24940,
+      "transactions": 688,
+      "footTraffic": 3100,
+      "conversionRate": 0.222,
+      "unitsSold": 1590,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 7731,
+          "unitsSold": 483,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4489,
+          "unitsSold": 280,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 4240,
+          "unitsSold": 265,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3492,
+          "unitsSold": 218,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2993,
+          "unitsSold": 187,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1995,
+          "unitsSold": 125,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4020,
+          "unitsSold": 223
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3711,
+          "unitsSold": 186
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2334,
+          "unitsSold": 130
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2155,
+          "unitsSold": 108
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2459,
+          "unitsSold": 154
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1781,
+          "unitsSold": 94
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2025,
+          "unitsSold": 127
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1467,
+          "unitsSold": 77
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1556,
+          "unitsSold": 86
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1437,
+          "unitsSold": 72
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1157,
+          "unitsSold": 72
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 838,
+          "unitsSold": 44
+        }
+      ]
+    },
+    {
+      "month": "2024-10",
+      "sales": 28400,
+      "transactions": 745,
+      "footTraffic": 3460,
+      "conversionRate": 0.215,
+      "unitsSold": 1760,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 8465,
+          "unitsSold": 514,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4915,
+          "unitsSold": 299,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 5735,
+          "unitsSold": 348,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3823,
+          "unitsSold": 232,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3277,
+          "unitsSold": 199,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2185,
+          "unitsSold": 133,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4402,
+          "unitsSold": 245
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 4063,
+          "unitsSold": 203
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2556,
+          "unitsSold": 142
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2359,
+          "unitsSold": 118
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 3326,
+          "unitsSold": 208
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 2409,
+          "unitsSold": 127
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2217,
+          "unitsSold": 139
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1606,
+          "unitsSold": 85
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1704,
+          "unitsSold": 95
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1573,
+          "unitsSold": 79
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1267,
+          "unitsSold": 79
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 918,
+          "unitsSold": 48
+        }
+      ]
+    },
+    {
+      "month": "2024-11",
+      "sales": 32100,
+      "transactions": 805,
+      "footTraffic": 3790,
+      "conversionRate": 0.212,
+      "unitsSold": 1930,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 9300,
+          "unitsSold": 548,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 5400,
+          "unitsSold": 318,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 6300,
+          "unitsSold": 371,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 5100,
+          "unitsSold": 301,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3600,
+          "unitsSold": 212,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2400,
+          "unitsSold": 141,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4836,
+          "unitsSold": 269
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 4464,
+          "unitsSold": 223
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2808,
+          "unitsSold": 156
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2592,
+          "unitsSold": 130
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 3654,
+          "unitsSold": 228
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 2646,
+          "unitsSold": 139
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2958,
+          "unitsSold": 185
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 2142,
+          "unitsSold": 113
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1872,
+          "unitsSold": 104
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1728,
+          "unitsSold": 86
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1392,
+          "unitsSold": 87
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 1008,
+          "unitsSold": 53
+        }
+      ]
+    },
+    {
+      "month": "2024-12",
+      "sales": 39820,
+      "transactions": 915,
+      "footTraffic": 4240,
+      "conversionRate": 0.216,
+      "unitsSold": 2325,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 11536,
+          "unitsSold": 660,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 6699,
+          "unitsSold": 383,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 7815,
+          "unitsSold": 447,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 6327,
+          "unitsSold": 362,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 4466,
+          "unitsSold": 256,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2977,
+          "unitsSold": 170,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 5999,
+          "unitsSold": 333
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 5537,
+          "unitsSold": 277
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 3483,
+          "unitsSold": 194
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 3216,
+          "unitsSold": 161
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 4533,
+          "unitsSold": 283
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 3282,
+          "unitsSold": 173
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 3670,
+          "unitsSold": 229
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 2657,
+          "unitsSold": 140
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 2322,
+          "unitsSold": 129
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 2144,
+          "unitsSold": 107
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1727,
+          "unitsSold": 108
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 1250,
+          "unitsSold": 66
+        }
+      ]
+    },
+    {
+      "month": "2025-01",
+      "sales": 15880,
+      "transactions": 470,
+      "footTraffic": 2360,
+      "conversionRate": 0.2,
+      "unitsSold": 1040,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 4826,
+          "unitsSold": 310,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 2802,
+          "unitsSold": 180,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 2647,
+          "unitsSold": 170,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2180,
+          "unitsSold": 140,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 1868,
+          "unitsSold": 120,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1557,
+          "unitsSold": 100,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 2510,
+          "unitsSold": 139
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 2316,
+          "unitsSold": 116
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1457,
+          "unitsSold": 81
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1345,
+          "unitsSold": 67
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 1535,
+          "unitsSold": 96
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1112,
+          "unitsSold": 59
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1264,
+          "unitsSold": 79
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 916,
+          "unitsSold": 48
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 971,
+          "unitsSold": 54
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 897,
+          "unitsSold": 45
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 903,
+          "unitsSold": 56
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 654,
+          "unitsSold": 34
+        }
+      ]
+    },
+    {
+      "month": "2025-02",
+      "sales": 16640,
+      "transactions": 490,
+      "footTraffic": 2445,
+      "conversionRate": 0.201,
+      "unitsSold": 1090,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 5158,
+          "unitsSold": 331,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 2995,
+          "unitsSold": 192,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 2829,
+          "unitsSold": 182,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2330,
+          "unitsSold": 150,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 1997,
+          "unitsSold": 128,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1331,
+          "unitsSold": 85,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 2682,
+          "unitsSold": 149
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 2476,
+          "unitsSold": 124
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1557,
+          "unitsSold": 86
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1438,
+          "unitsSold": 72
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 1641,
+          "unitsSold": 103
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1188,
+          "unitsSold": 63
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1351,
+          "unitsSold": 84
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 979,
+          "unitsSold": 52
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1038,
+          "unitsSold": 58
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 959,
+          "unitsSold": 48
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 772,
+          "unitsSold": 48
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 559,
+          "unitsSold": 29
+        }
+      ]
+    },
+    {
+      "month": "2025-03",
+      "sales": 18720,
+      "transactions": 540,
+      "footTraffic": 2610,
+      "conversionRate": 0.207,
+      "unitsSold": 1225,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 5803,
+          "unitsSold": 372,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 3370,
+          "unitsSold": 216,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 3182,
+          "unitsSold": 204,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2621,
+          "unitsSold": 168,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2246,
+          "unitsSold": 144,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1498,
+          "unitsSold": 96,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 3018,
+          "unitsSold": 168
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 2785,
+          "unitsSold": 139
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1752,
+          "unitsSold": 97
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1618,
+          "unitsSold": 81
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 1846,
+          "unitsSold": 115
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1336,
+          "unitsSold": 70
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1520,
+          "unitsSold": 95
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1101,
+          "unitsSold": 58
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1168,
+          "unitsSold": 65
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1078,
+          "unitsSold": 54
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 869,
+          "unitsSold": 54
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 629,
+          "unitsSold": 33
+        }
+      ]
+    },
+    {
+      "month": "2025-04",
+      "sales": 20850,
+      "transactions": 595,
+      "footTraffic": 2790,
+      "conversionRate": 0.213,
+      "unitsSold": 1360,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 6463,
+          "unitsSold": 413,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 3753,
+          "unitsSold": 240,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 3545,
+          "unitsSold": 227,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 2919,
+          "unitsSold": 187,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2502,
+          "unitsSold": 160,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1668,
+          "unitsSold": 107,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 3361,
+          "unitsSold": 187
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3102,
+          "unitsSold": 155
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 1952,
+          "unitsSold": 108
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1801,
+          "unitsSold": 90
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2056,
+          "unitsSold": 128
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1489,
+          "unitsSold": 78
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1693,
+          "unitsSold": 106
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1226,
+          "unitsSold": 65
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1301,
+          "unitsSold": 72
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1201,
+          "unitsSold": 60
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 967,
+          "unitsSold": 60
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 701,
+          "unitsSold": 37
+        }
+      ]
+    },
+    {
+      "month": "2025-05",
+      "sales": 22870,
+      "transactions": 640,
+      "footTraffic": 2960,
+      "conversionRate": 0.216,
+      "unitsSold": 1495,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 7089,
+          "unitsSold": 454,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4117,
+          "unitsSold": 264,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 3888,
+          "unitsSold": 249,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3202,
+          "unitsSold": 205,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 2744,
+          "unitsSold": 176,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 1830,
+          "unitsSold": 117,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 3686,
+          "unitsSold": 205
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3403,
+          "unitsSold": 170
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2141,
+          "unitsSold": 119
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 1976,
+          "unitsSold": 99
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2255,
+          "unitsSold": 141
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1633,
+          "unitsSold": 86
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 1857,
+          "unitsSold": 116
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1345,
+          "unitsSold": 71
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1427,
+          "unitsSold": 79
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1317,
+          "unitsSold": 66
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1061,
+          "unitsSold": 66
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 769,
+          "unitsSold": 40
+        }
+      ]
+    },
+    {
+      "month": "2025-06",
+      "sales": 25210,
+      "transactions": 690,
+      "footTraffic": 3130,
+      "conversionRate": 0.22,
+      "unitsSold": 1630,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 7815,
+          "unitsSold": 495,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4538,
+          "unitsSold": 288,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 4286,
+          "unitsSold": 272,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3529,
+          "unitsSold": 224,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3025,
+          "unitsSold": 192,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2017,
+          "unitsSold": 128,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4064,
+          "unitsSold": 226
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3751,
+          "unitsSold": 188
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2360,
+          "unitsSold": 131
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2178,
+          "unitsSold": 109
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2486,
+          "unitsSold": 155
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1800,
+          "unitsSold": 95
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2047,
+          "unitsSold": 128
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1482,
+          "unitsSold": 78
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1573,
+          "unitsSold": 87
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1452,
+          "unitsSold": 73
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1170,
+          "unitsSold": 73
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 847,
+          "unitsSold": 45
+        }
+      ]
+    },
+    {
+      "month": "2025-07",
+      "sales": 27430,
+      "transactions": 730,
+      "footTraffic": 3320,
+      "conversionRate": 0.22,
+      "unitsSold": 1755,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 8504,
+          "unitsSold": 533,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4937,
+          "unitsSold": 310,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 4663,
+          "unitsSold": 292,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3840,
+          "unitsSold": 241,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3292,
+          "unitsSold": 206,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2194,
+          "unitsSold": 138,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4422,
+          "unitsSold": 246
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 4082,
+          "unitsSold": 204
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2567,
+          "unitsSold": 143
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2370,
+          "unitsSold": 118
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2705,
+          "unitsSold": 169
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1958,
+          "unitsSold": 103
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2227,
+          "unitsSold": 139
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1613,
+          "unitsSold": 85
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1712,
+          "unitsSold": 95
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1580,
+          "unitsSold": 79
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1273,
+          "unitsSold": 80
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 921,
+          "unitsSold": 48
+        }
+      ]
+    },
+    {
+      "month": "2025-08",
+      "sales": 28610,
+      "transactions": 760,
+      "footTraffic": 3450,
+      "conversionRate": 0.22,
+      "unitsSold": 1820,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 8869,
+          "unitsSold": 553,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 5150,
+          "unitsSold": 321,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 4864,
+          "unitsSold": 303,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 4005,
+          "unitsSold": 250,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3433,
+          "unitsSold": 214,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2289,
+          "unitsSold": 143,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4612,
+          "unitsSold": 256
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 4257,
+          "unitsSold": 213
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2678,
+          "unitsSold": 149
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2472,
+          "unitsSold": 124
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2821,
+          "unitsSold": 176
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 2043,
+          "unitsSold": 108
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2323,
+          "unitsSold": 145
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1682,
+          "unitsSold": 89
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1785,
+          "unitsSold": 99
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1648,
+          "unitsSold": 82
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1328,
+          "unitsSold": 83
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 961,
+          "unitsSold": 51
+        }
+      ]
+    },
+    {
+      "month": "2025-09",
+      "sales": 26310,
+      "transactions": 705,
+      "footTraffic": 3210,
+      "conversionRate": 0.219,
+      "unitsSold": 1670,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 8156,
+          "unitsSold": 507,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 4736,
+          "unitsSold": 295,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 4473,
+          "unitsSold": 278,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 3683,
+          "unitsSold": 229,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3157,
+          "unitsSold": 196,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2105,
+          "unitsSold": 131,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4241,
+          "unitsSold": 236
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 3915,
+          "unitsSold": 196
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2463,
+          "unitsSold": 137
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2273,
+          "unitsSold": 114
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 2594,
+          "unitsSold": 162
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 1879,
+          "unitsSold": 99
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2136,
+          "unitsSold": 134
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1547,
+          "unitsSold": 81
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1642,
+          "unitsSold": 91
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1515,
+          "unitsSold": 76
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1221,
+          "unitsSold": 76
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 884,
+          "unitsSold": 47
+        }
+      ]
+    },
+    {
+      "month": "2025-10",
+      "sales": 30150,
+      "transactions": 780,
+      "footTraffic": 3580,
+      "conversionRate": 0.218,
+      "unitsSold": 1865,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 8987,
+          "unitsSold": 545,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 5218,
+          "unitsSold": 316,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 6088,
+          "unitsSold": 369,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 4059,
+          "unitsSold": 246,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3479,
+          "unitsSold": 211,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2319,
+          "unitsSold": 141,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 4673,
+          "unitsSold": 260
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 4314,
+          "unitsSold": 216
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2713,
+          "unitsSold": 151
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2505,
+          "unitsSold": 125
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 3531,
+          "unitsSold": 221
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 2557,
+          "unitsSold": 135
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 2354,
+          "unitsSold": 147
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 1705,
+          "unitsSold": 90
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1809,
+          "unitsSold": 100
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1670,
+          "unitsSold": 84
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1345,
+          "unitsSold": 84
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 974,
+          "unitsSold": 51
+        }
+      ]
+    },
+    {
+      "month": "2025-11",
+      "sales": 34200,
+      "transactions": 840,
+      "footTraffic": 3955,
+      "conversionRate": 0.212,
+      "unitsSold": 2060,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 9908,
+          "unitsSold": 585,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 5753,
+          "unitsSold": 340,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 6712,
+          "unitsSold": 396,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 5434,
+          "unitsSold": 321,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 3836,
+          "unitsSold": 226,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 2557,
+          "unitsSold": 151,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 5152,
+          "unitsSold": 286
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 4756,
+          "unitsSold": 238
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 2992,
+          "unitsSold": 166
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 2761,
+          "unitsSold": 138
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 3893,
+          "unitsSold": 243
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 2819,
+          "unitsSold": 148
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 3152,
+          "unitsSold": 197
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 2282,
+          "unitsSold": 120
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 1995,
+          "unitsSold": 111
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 1841,
+          "unitsSold": 92
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1483,
+          "unitsSold": 93
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 1074,
+          "unitsSold": 57
+        }
+      ]
+    },
+    {
+      "month": "2025-12",
+      "sales": 42600,
+      "transactions": 960,
+      "footTraffic": 4460,
+      "conversionRate": 0.215,
+      "unitsSold": 2490,
+      "categories": [
+        {
+          "category": "Dog Food",
+          "sales": 12342,
+          "unitsSold": 707,
+          "color": "#7FB3D5"
+        },
+        {
+          "category": "Cat Food",
+          "sales": 7166,
+          "unitsSold": 411,
+          "color": "#A5D6A7"
+        },
+        {
+          "category": "Treats",
+          "sales": 8361,
+          "unitsSold": 479,
+          "color": "#F7C26B"
+        },
+        {
+          "category": "Toys & Enrichment",
+          "sales": 6768,
+          "unitsSold": 388,
+          "color": "#D39BFF"
+        },
+        {
+          "category": "Grooming & Supplies",
+          "sales": 4778,
+          "unitsSold": 274,
+          "color": "#F29B9B"
+        },
+        {
+          "category": "Health & Wellness",
+          "sales": 3185,
+          "unitsSold": 182,
+          "color": "#77C7C8"
+        }
+      ],
+      "skus": [
+        {
+          "sku": "BarkBites Chicken Recipe",
+          "category": "Dog Food",
+          "sales": 6418,
+          "unitsSold": 357
+        },
+        {
+          "sku": "Hilltop Grain-Free Salmon",
+          "category": "Dog Food",
+          "sales": 5924,
+          "unitsSold": 296
+        },
+        {
+          "sku": "Whisker Feast Salmon",
+          "category": "Cat Food",
+          "sales": 3726,
+          "unitsSold": 207
+        },
+        {
+          "sku": "PurrPrime Chicken & Tuna",
+          "category": "Cat Food",
+          "sales": 3440,
+          "unitsSold": 172
+        },
+        {
+          "sku": "Pupperoni Crunch Bites",
+          "category": "Treats",
+          "sales": 4849,
+          "unitsSold": 303
+        },
+        {
+          "sku": "BunnyBites Hay Crisps",
+          "category": "Treats",
+          "sales": 3512,
+          "unitsSold": 185
+        },
+        {
+          "sku": "Squeaky Bone",
+          "category": "Toys & Enrichment",
+          "sales": 3925,
+          "unitsSold": 245
+        },
+        {
+          "sku": "Puzzle Feeder",
+          "category": "Toys & Enrichment",
+          "sales": 2843,
+          "unitsSold": 150
+        },
+        {
+          "sku": "PawFresh Grooming Kit",
+          "category": "Grooming & Supplies",
+          "sales": 2485,
+          "unitsSold": 138
+        },
+        {
+          "sku": "CozyNest Litter Pail",
+          "category": "Grooming & Supplies",
+          "sales": 2293,
+          "unitsSold": 115
+        },
+        {
+          "sku": "Joint Support Chews",
+          "category": "Health & Wellness",
+          "sales": 1847,
+          "unitsSold": 115
+        },
+        {
+          "sku": "FleaShield Collar",
+          "category": "Health & Wellness",
+          "sales": 1338,
+          "unitsSold": 70
+        }
+      ]
+    }
+  ]
+}
